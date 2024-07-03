@@ -1,4 +1,4 @@
-// shoult return ["arp", "live", "strong"]
+// should return ["arp", "live", "strong"]
 const a1 = ["arp", "live", "strong"]
 const a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 

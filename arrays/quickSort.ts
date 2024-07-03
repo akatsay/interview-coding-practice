@@ -4,7 +4,7 @@ let count = 0
 //PSEUDO
 // Take the middle pivotal value and
 //   Inside the loop compare every item to the pivotal value and push it either to greater or lesser array
-//      return array using recurtion within spread and recursively check every element to the middle of each subarray till the lenght of
+//      return array using recursion within spread and recursively check every element to the middle of each subarray till the lenght of
 //      it becomes 1
 // Time complexity
 
